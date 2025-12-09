@@ -20,8 +20,8 @@ A clean and modular **Android mobile automation framework** built using **Python
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<username>/<repo>
-cd <repo>
+git clone https://github.com/Azaam86msn/mobile_automation_setup_for_tradie_ai.git
+cd mobile_automation_setup_for_tradie_ai
 ```
 
 ### 2. Create & Activate Virtual Environment
